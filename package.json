@@ -1,5 +1,5 @@
 {
-	"name": "onscribe-api",
+	"name": "onscribe",
 	"description": "A node module to perform api requests to onscribe",
 	"version": "0.0.1",
 	"author": "kdi",
