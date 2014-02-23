@@ -16,6 +16,8 @@
 	"main": "index",
 	"bin": { },
 	"dependencies": {
-		"underscore": "*"
+		"underscore": "*",
+		"passport": "*",
+		"passport-onscribe": "*"
 	}
 }
