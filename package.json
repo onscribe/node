@@ -16,8 +16,9 @@
 	"main": "index",
 	"bin": { },
 	"dependencies": {
-		"underscore": "*",
-		"passport": "*",
-		"passport-onscribe": "*"
+		"underscore": "1.7.0",
+		"passport": "0.2.1",
+		"passport-onscribe": "0.x",
+		"request": "2.51.0"
 	}
 }
