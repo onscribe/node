@@ -62,4 +62,5 @@ app.get('/api/*', function(req, res){
 });
 
 
-exports.server = server;
+// Run server on this port
+server.listen(8080);
