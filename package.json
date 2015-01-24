@@ -1,7 +1,7 @@
 {
 	"name": "onscribe",
 	"description": "A node module to perform api requests to onscribe",
-	"version": "0.2.2",
+	"version": "0.3.0",
 	"author": "kdi",
 	"contributors": [
 		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
