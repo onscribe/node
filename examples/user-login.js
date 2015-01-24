@@ -55,7 +55,7 @@ app.get('/api/*', function(req, res){
 
 function password( req, res, next ){
 	var data = req.query;
-	onscribe.password( data, function( err, result ){
+	onscribe.login( data, function( err, result ){
 		if( err ) return console.log("error", err);
 		// create user object
 		req.session.user = {};
